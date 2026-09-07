@@ -46,3 +46,4 @@ if st.button("🔍 SEARCH"):
             cl3.metric("wind speed",f"{data['wind']['speed']}K/H")
             cl4.metric("cloud",f"{data['clouds']['all']}")
             st.divider()
+
